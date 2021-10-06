@@ -2,7 +2,6 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/cb2d4cc5-8a65-4940-81ce-4456ff96e6db/deploy-status)](https://app.netlify.com/sites/22in22/deploys) ← replace with [your own](https://app.netlify.com/sites/YOUR_NETLIFY_SITE_SLUG/settings/general#deploy-status-badge)
 
-
 ## 🔋 Batteries included
 
 - Nuxt.js (in "universal mode", where both SEO and speed is great)
@@ -17,22 +16,24 @@
 - Prettier
 - Nuxt-content (w/ exensible support for markdown and code-blocks)
 
-##### Optional extra setup
+### Optional extra setup
+
 - Git LFS (store uploaded images outside the main repo)
 - Netlify LM (Netlify’s Git LFS support)
 
 ## 🎉 Getting Started
 
- - A new repository in your GitHub account with the code
- - Full Continuous Deployment to Netlify's global CDN network
- - Control users and access with Netlify Identity
- - Manage content with Netlify CMS and Nuxt-content
+- A new repository in your GitHub account with the code
+- Full Continuous Deployment to Netlify's global CDN network
+- Control users and access with Netlify Identity
+- Manage content with Netlify CMS and Nuxt-content
 
 Once the initial build finishes, you can invite yourself as a user. Go to the Identity tab in your new site, click "Invite" and send yourself an invite. Start with by registering a regular email-account (not OAuth yet!) with a [generated password](https://passwordwolf.com/).
 
 You should be up and running, ready for personalization!
 
-### These extra steps are only necessary if you want to upload large media in Netlify CMS:
+### These extra steps are only necessary if you want to upload large media in Netlify CMS
+
 This way it doesn't clutter up your repo with large unmanageable files. But *do know* that it is easier to add later than undoing it later.
 
 1. **[Install git-lfs](https://git-lfs.github.com/)** on your computer and remove the `#` in the project's `.gitattributes`
