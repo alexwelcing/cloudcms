@@ -1,6 +1,6 @@
 ---
 category: tech
-title: Teams and SharePoint Connection
+title: 10. Teams and SharePoint Connection
 description: As the firm gains access to Teams and managed SharePoint services,
   this project focuses on enabling the Project Management team efforts to create
   seamless Teams experiences for Billing Professionals.

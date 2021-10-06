@@ -1,6 +1,6 @@
 ---
 category: tech
-title: MoH clone for Digital
+title: 11. MoH clone for Digital
 description: Taking advantage of the work already invested to create MoH, this
   project replicates the Knowledge as a Service model used in health for the
   digital team.

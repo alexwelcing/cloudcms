@@ -1,6 +1,6 @@
 ---
 category: marketing
-title: Video Strategy
+title: 2. Video Strategy
 description: A proactive video strategy is essential for search, reach, and brand building.
 cover: /img/3-video-strategy.png
 ---

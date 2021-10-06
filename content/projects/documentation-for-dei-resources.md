@@ -1,6 +1,6 @@
 ---
 category: tech
-title: Documentation for DEI resources
+title: 13. Documentation for DEI resources
 description: Our knowledge management services should be utilized for internal
   education as well. This tool makes documentation easier for Diversity, Equity,
   and Inclusion projects.

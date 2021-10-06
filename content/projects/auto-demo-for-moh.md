@@ -1,6 +1,6 @@
 ---
 category: marketing
-title: Auto-demo for MoH
+title: 5. Auto-demo for MoH
 description: Allows new prospects to experience a short demo of MoH without
   requiring multiple personal interactions.
 cover: /img/journey-ifthen-paths.png

@@ -1,6 +1,6 @@
 ---
 category: tech
-title: KZ as Managed Service
+title: 4. KZ as Managed Service
 description: Currently, Alex manages the KZ directly. This project moves the
   application to a trusted manage service provider, improving reliability and
   maintenance.

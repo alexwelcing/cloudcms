@@ -1,6 +1,6 @@
 ---
 category: tech
-title: Mobile Friendly MoH
+title: 7. Mobile Friendly MoH
 description: The current platform is optimized for desktop access, but most web
   traffic is served over mobile. This project focuses on the MoH platform
   performance on mobile.

@@ -1,6 +1,6 @@
 ---
 category: tech
-title: Optimizing Content SEO
+title: 9. Optimizing Content SEO
 description: New prospects with interest in MoH's unique thought leadership
   should be able to discover our latest analyses through search. We need to
   optimize the platform for search engine result page performance and paywall

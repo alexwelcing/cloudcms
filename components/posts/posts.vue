@@ -59,14 +59,14 @@
       },
       amount: { // ? https://content.nuxtjs.org/fetching#limitn
         type: Number,
-        default: 10,
+        default: 25,
         validator: (val) => val >= 0 && val < 100,
       },
       sortBy: { // ? https://content.nuxtjs.org/fetching#sortbykey-direction
         type: Object,
         default: () => ({
           key: 'slug',
-          direction: 'desc' // you probably want 'asc' here
+          direction: 'asc' // you probably want 'asc' here
         }),
         validator: (obj) => typeof obj.key === 'string' && typeof obj.direction === 'string',
       }

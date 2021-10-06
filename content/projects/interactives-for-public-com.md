@@ -1,6 +1,6 @@
 ---
 category: marketing
-title: Interactives for public .com
+title: 12. Interactives for public .com
 description: Having seen success with interactive content made available to the
   public, this explores additional marketing opportunities for .com embedded
   interactives.
