@@ -4,7 +4,7 @@ logo_url: https://22in22.netlify.app/icon.png
 publish_mode: editorial_workflow
 backend:
   name: git-gateway
-  branch: master
+  branch: main
   squash_merges: true
 
 # used together with `npx netlify-cms-proxy-server`. https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
@@ -65,8 +65,8 @@ collections:
           label: 'Project Category',
           name: 'category',
           widget: 'select',
-          default: 'animals',
-          options: [{ label: 'Animals', value: 'animals' }, { label: 'Food', value: 'food' }],
+          default: 'tech',
+          options: [{ label: 'Tech', value: 'tech' }, { label: 'Marketing', value: 'marketing' }],
         }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
