@@ -1,6 +1,6 @@
 ---
 category: marketing
-title: 1. Ads for MoH
+title: Ads for MoH
 description: Use Google Marketing Platform, a unified advertising and analytics
   platform for smarter marketing and better results.
 cover: https://lh3.googleusercontent.com/KvTz8rDPbWPxM1La_idFr0k1ppw8J3LNlezIUNpf8CHvdZMcJrTFJFqgycec7NHI7ANRMUhyINfd9MthDmbYHXOTU1Vo6-5MJ3vpuA=s768
