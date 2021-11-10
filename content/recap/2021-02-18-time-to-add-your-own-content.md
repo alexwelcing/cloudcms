@@ -1,67 +1,9 @@
 ---
 createdAt: 2021-02-18
-title: Time to add your own content
-description: Remove all of the .md-files in the /content folder and go at it!
+title: Rebrand
+description: Creating momentum by making product changes that better reflect the
+  service's purpose of use.
 ---
+## Aesthetic improvements in the midst of overhaul
 
-## Sit liquentibus sinu verbis et spatiarer laedar
-
-Lorem markdownum viros voce nostri tumulandus contegat tua **prior** umbra
-**Pelopeia**. Fertur in nocet edidit Thyneius cornu; est aether senioribus illa
-detinet moenia horrendus viri. Amo tophis Idaeis [recap](/recap)
-venerat.
-
-Sic **nostrae habet**: este, sua illic auctor causam. Pateres argentea, nati
-ictus nondum, redeuntia vertitur ulterius quae temone potentia dominos obstitit
-dat: voce quater attritas. Imagine quamquam quoque
-[projects](/projects) et sonabat Cybeleius
-albentes primaque sidera, omnia.
-
-## Apud sunt
-
-Addidit nunc: finita tua celatos vacuos Morpheus tigridis videre. Et an in ne
-scelus pluviaque fluitque consurgere dixit inficit est fecere atque voce perque
-fuit ulla Thestorides. Suas adveniens vituli hi quem quaecumque Argos, frustra
-solacia: inpensior munere quae. Vivacisque **nos has** elusaque Aeaciden altum
-oris ille convicia castique.
-
-```js{1,4}[posts.vue]
-formatDate(dateString) {
-  const date = new Date(dateString)
-  return date.toLocaleDateString(process.env.lang) || ''
-},
-async fetchPosts(
-    postType = this.postType,
-    amount = this.amount,
-    sortBy = this.sortBy,
-  ) {
-  return this.$content(postType)
-    .sortBy(sortBy.key, sortBy.direction)
-    .limit(amount)
-    .fetch()
-    .catch((err) => {
-      error({ statusCode: 404, message: amount > 1 ? 'Posts not found' : 'Post not found' })
-    });
-}
-```
-
-## Est nec scrobibus Antissa
-
-Duroque _sunt aureus partem_ concava soleant et limite frugum Typhoea omnique:
-que et et sono meum. Relinquit miscet est humum, quo taceam lacrimas gratissima
-vetustas, Syrtis urguent valle referebam nostris iustis, fiet! Deos per totidem
-agris! Unumque incursat, dedere Libycas sensit; hac horto Lucifero dissaepserat
-aliud. Aeginam memorabile sororibus excepto.
-
-> Nato stella sensit copia prensantem ille annis quoniam Messapiaque inquit male
-> pater ex iuventae, casses? **Velle** esse, Apis purpureis illa adicit, sit
-> totum tu, **mihi** ego multa et fieri. Acu Cipe ut relabens capillos per:
-> scelus arae conplevit torquet. Inrita hortaturque tumultus superest tamen
-> respiramina per diu arasque manus **prope Echionio** Troades, est. Tempus
-> arbore in ita.
-
-Ad celeri est et Tremorque reliquerat fruges inplicuit. Dictis libratum
-[cuncta](http://quisquis.com/) intentare essent, terribilesque quam sorores arce
-oscula inornatos quam sole erat in ignavus comis tibi. Latoius cernentem es hunc
-ferunt Ionio nec saucia cupiunt erat. Et petiit gesserat iudicium libido
-elususque fugere armiferos placet, illae.
+**By prioritizing** a few key updates to the title of the service, logo and brand assets, the product maintained mid-year momentum while architecture changes were in development. Credit goes to Cameron, Bert, and Chuck for managing this update, as well as the marketing and product teams for driving the content and message needed.
