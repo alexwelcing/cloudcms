@@ -1,5 +1,5 @@
 ---
-createdAt: 2021-02-18
+createdAt: 2021-08-01T04:00:00.000Z
 title: Rebrand
 description: Creating momentum by making product changes that better reflect the
   service's purpose of use.
