@@ -1,6 +1,6 @@
 ---
 category: tech
-title: 19. Adobe CC for Consulting
+title: 2. Adobe CC for Consulting
 description: Billing professionals, particularly new consulting professionals,
   often have the ability to represent complex ideas using visual imagery. Adobe
   CC allows photo editing, graphic creation, as well as video and audio tools,

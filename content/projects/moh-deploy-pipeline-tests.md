@@ -1,6 +1,6 @@
 ---
 category: tech
-title: 22. MoH Deploy pipeline tests
+title: 13. MoH Deploy pipeline tests
 description: Improve reliability of MoH service by implementing a testing
   pipeline, checking services remain uninterrupted when updates are pushed live.
   Emphasizing sound DevOps practices, this enables developers to check their
