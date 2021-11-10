@@ -8,3 +8,5 @@ gallery:
   - /img/1-top-performers.png
 ---
 Our visibility into the experience of our customers is powered by Google Analytics <https://marketingplatform.google.com/about/analytics/>. To reach an optimizable scale of new client opportunities, we can utilize the advertising features of Google Marketing Platform. This effort dovetails and supports search engine optimization, allowing an additional lever to support earned impressions.
+
+Current use of GA4 provides a foundation for expanding into user acquisition.
